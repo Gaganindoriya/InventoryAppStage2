@@ -1,0 +1,52 @@
+<resources>
+       <string name="app_name">InventoryAppStage2</string>
+    <!--xml-->
+    <string name="no_book">There is No Books Available</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_name_edit">Enter Book name Here</string>
+    <string name="book_price">Price</string>
+    <string name="book_price_edit">Enter Price Here</string>
+    <string name="quantity_txt">Quantity</string>
+    <string name="book_quantity_edit">Enter Quantity Here</string>
+    <string name="supplier_name">Supplier</string>
+    <string name="supplier_name_edit">Enter Name Here</string>
+    <string name="supplier_phone_no">Phone</string>
+    <string name="supplier_phone_no_edit">Enter Phone Here</string>
+    <string name="sale">Sale</string>
+    <string name="available_quantity">Available Quantity </string>
+    <string name="insert_books">Insert Book</string>
+    <string name="delete_all_books">Delete All Book</string>
+    <string name="save_btn">Save</string>
+    <string name="delete_btn">Delete</string>
+    <string name="book_details">Book Details</string>
+    <string name="book_price_example">₹ 10.0</string>
+    <string name="supplier_details">SUPPLIER DETAILS</string>
+    <string name="quantity_text">QUANTITY</string>
+    <string name="book_text">Book Details</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <!--java-->
+    <string name="are_you_sure">Are You Sure? You are deleting all books</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add_book">Add Book</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="empty_book_cannot_save">Empty book</string>
+    <string name="fields_cant_be_empty">Fields are empty</string>
+    <string name="insert_book_failed">Error while saving book.</string>
+    <string name="update_book_failed">Error while updating book.</string>
+    <string name="update_book_successful">Books Updated</string>
+    <string name="insert_book_successful">Books Saved</string>
+    <string name="unsaved_dialog">Discard changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete">Delete</string>
+    <string name="delete_dialog_msg">Delete this book ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_book_failed">Delete book failed</string>
+    <string name="delete_book_successful">Book deleted.</string>
+    <string name="one_book_sold">One book sold</string>
+    <string name="book_sale_error">Book cannot be sold due to unknown error</string>
+    <string name="not_in_stock">Book not in stock</string>
+    <string name="negative_books">Books can\'t be negative</string>
+</resources>
